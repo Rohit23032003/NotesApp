@@ -27,4 +27,6 @@ The API will be built using Node.js and Express.js and will interact with the Mo
 <b>Backend:</b> Node.js, Express.js<br></br>
 <b>Database:</b> MongoDB Atlas<br></br>
 <b>Authentication:</b> Shared Preferences<br></br>
+
+
 https://github.com/Rohit23032003/NotesApp/assets/99860290/0b90917e-2e71-4db7-8ab7-0d3b85af0a09
